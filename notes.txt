@@ -1,2 +1,2 @@
 "This is my first Git file" 
-my name is kaushin
+my name is kaushin & jayneel
